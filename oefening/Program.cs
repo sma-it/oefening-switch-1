@@ -16,7 +16,7 @@ namespace First
             Console.WriteLine("ToonKwartaal \t\t 4 \t\t\t" + Oef_1.ToonKwartaal(11));
             Console.WriteLine("ToonKwartaal \t\t 0 \t\t\t" + Oef_1.ToonKwartaal(13));
             Console.WriteLine("BerekenBelastbaar \t 10000 \t\t\t" + Oef_1.BerekenBelastbaar(10000, 0));
-            Console.WriteLine("BerekenBelastbaar \t 9972 \t\t\t" + Oef_1.BerekenBelastbaar(10000, 1));
+            Console.WriteLine("BerekenBelastbaar \t 9975 \t\t\t" + Oef_1.BerekenBelastbaar(10000, 1));
             Console.WriteLine("BerekenBelastbaar \t 9947 \t\t\t" + Oef_1.BerekenBelastbaar(10000, 2));
             Console.WriteLine("BerekenBelastbaar \t 9917 \t\t\t" + Oef_1.BerekenBelastbaar(10000, 3));
             Console.WriteLine("BerekenBelastbaar \t 9883 \t\t\t" + Oef_1.BerekenBelastbaar(10000, 4));
